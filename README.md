@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Description Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Web-версия приложение задач
+[React Native версия](https://github.com/NikkiEre/Todos-mobile).
+[Сервер](https://github.com/NikkiEre/Todos-server).
 
 ## Available Scripts
 
