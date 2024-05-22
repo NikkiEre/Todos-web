@@ -1,6 +1,6 @@
 # Description Project
 
-Web-версия приложение задач
+Web-версия приложение задач.
 [React Native версия](https://github.com/NikkiEre/Todos-mobile).
 [Сервер](https://github.com/NikkiEre/Todos-server).
 
